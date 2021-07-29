@@ -1,4 +1,8 @@
+package restaurant;
+
 import java.util.ArrayList;
+import java.util.Date;
+
 
 public class Menu {
     private ArrayList<MenuItem> soup;
@@ -26,8 +30,7 @@ public class Menu {
     public ArrayList getSteak() {
         return steak;
     }
-    public void setSteak(ArrayList steak) {
-        this.steak = steak;
+    public void setSteak(ArrayList steak) { this.steak = steak;
     }
 
     public ArrayList getShrimp() {

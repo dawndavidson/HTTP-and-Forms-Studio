@@ -1,5 +1,7 @@
+package restaurant;
+
 import java.util.ArrayList;
-import java.util.HashMap;
+
 
 public class MenuItem {
     private double price;
@@ -39,4 +41,3 @@ public class MenuItem {
         this.category = category;
     }
 }
-
