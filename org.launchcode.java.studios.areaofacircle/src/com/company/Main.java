@@ -12,7 +12,7 @@ public class Main {
 
         double radius = Double.parseDouble(userInput);
 
-        System.out.println("The area of a circle with radius" + radius + "is" + calculateCircleArea(radius));
+        System.out.println("The area of a circle with radius " + radius +  "is " + calculateCircleArea(radius));
 
     }
 
