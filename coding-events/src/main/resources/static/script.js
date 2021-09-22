@@ -1,1 +1,2 @@
+
 let appName = "Coding Events";
